@@ -1,0 +1,14 @@
+h1 {
+    border: 2px #611038 solid;
+    color: rgb(255, 0, 153);
+    text-align: center;
+    padding: 10px;
+}
+img {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+ body { 
+    background-color: rgb(80, 16, 43);
+ }
